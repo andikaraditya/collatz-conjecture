@@ -1,5 +1,5 @@
 <h1>Collatz-Conjecture</h1>
-<p>Collatz conjecture is a conjecture in mathematics that  was introduced by Lothar Collatz in 1937. It is also known as the 3n + 1 problem, the 3n + 1 conjecture</p>
+<p>Collatz conjecture is a conjecture in mathematics that  was introduced by Lothar Collatz in 1937. It is also known as the 3n + 1 problem</p>
 <h2>The Conjecture</h2>
 <p>The sequences defined as follows: 
 <ol>
